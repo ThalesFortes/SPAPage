@@ -1,0 +1,30 @@
+@media (max-width:570px) {
+    main{
+        padding: 0.5rem;
+    }
+
+    nav{
+        gap: 2rem;
+    }
+
+    a{
+        font-size: 1.7rem;
+    }
+    
+    .ctive{
+        font-weight: bold;
+        font-size: 1.9rem;
+    }
+    
+    .second{
+        margin:13rem 2rem;
+     }
+
+    h1{
+        font-size: 4rem;
+    }
+    
+    p{
+        font-size: 1.8rem;
+    }
+}
