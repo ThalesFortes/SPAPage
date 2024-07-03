@@ -12,37 +12,21 @@ O SPAPage foi feito para treinar e exercitar os conceitos de SPA page e Orienta√
 
 ## Layout web
 
-###  standard Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/padrao.png)
+###  Home Page
+![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/HomePageWeb.png)
 
-###   florest Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/florest.png)
+###  Second and Third pages
+![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/ExplorationAndUniversePageWeb.png)
 
-###  rain Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/rain.png)
-
-###   cafet Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/cafet.png)
-
-###  fireplace Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/fireplace.png)
 
 ## Layout mobile
 
-###  standard Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/padraoMobile.png)
+###  Home Page
+![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/HomePageMobile.png)
 
-###   florest Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/florestMobile.png)
+###  Second and Third pages
+![Web 1](https://github.com/ThalesFortes/SPAPage/blob/main/readme_imgs/ExplorationAndUniversePageMobile.png)
 
-###  rain Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/rainMobile.png)
-
-###   cafet Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/cafetMobile.png)
-
-###  fireplace Mode
-![Web 1](https://github.com/ThalesFortes/FocusTimer-2.0/blob/main/src/printThemes/fireplaceMobile.png)
 
 # Tecnologias utilizadas
 
@@ -54,7 +38,6 @@ O SPAPage foi feito para treinar e exercitar os conceitos de SPA page e Orienta√
 - JavaScript
 
 [Clique aqui para acessar](https://thalesfortes.github.io/FocusTimer-2.0/)
-Som funcionando corretamente, basta baixar o projeto para ver.
 
 # Autor
 
