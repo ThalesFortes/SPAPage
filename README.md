@@ -37,8 +37,6 @@ O SPAPage foi feito para treinar e exercitar os conceitos de SPA page e Orienta√
 ## Back-end
 - JavaScript
 
-[Clique aqui para acessar](https://thalesfortes.github.io/FocusTimer-2.0/)
-
 # Autor
 
 Thales de Abreu Fortes da Silva
